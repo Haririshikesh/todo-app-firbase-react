@@ -1,7 +1,9 @@
 **Refer FireBase Docs For Linking the firebase with React.**
 By using my web api keys that I have provided may lead you to error .Because Thats my private API key(from FireBase).
 
+# Tailwind Installation
 
+Refer Tailwind CSS Official site Docs to link the code with react.
 
 # Getting Started with Create React App
 
