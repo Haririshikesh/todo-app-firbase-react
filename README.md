@@ -1,27 +1,70 @@
-# todo-app-firbase-react
-A React and Firebase todo app that allows users to create, edit, and delete todo items. To-do items are stored in a Firebase real-time Database. And Here in my project, I have added CRUD functionality Through Firebase And React.
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Project: This project is a fully-featured to-do app built with React and Firebase.
+## Available Scripts
 
-Firebase is a Google-backed platform that provides a variety of services for developing and deploying web and mobile applications.
-And Here in my project, I have added CRUD functionality Through Firebase And React.
+In the project directory, you can run:
 
-React: React is a JavaScript library for building user interfaces.
+### `yarn start`
 
-Todo app: A todo app is a software application that allows users to keep track of their tasks.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Realtime Database: A realtime database is a database that allows data to be updated in real time.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Features: The app allows users to create, edit, and delete to-do items. Todo items are stored in a Firebase real-time Database, so they are always up-to-date for all users.
+### `yarn test`
 
-Benefits: The app is easy to use and can be customized to fit the needs of any user. It is also scalable and can be used to create large and complex to-do apps.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `yarn build`
 
-Things To Note:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-=>I haven't Used NPM to install; the version manager that I have used is Yarn.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-=>The Web App Configuration that I have used is a private key, So it may lead your code to Error.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-=>Use FireBase Docs For interlinking with React through CRUD Functionalities
+### `yarn eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `yarn build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
