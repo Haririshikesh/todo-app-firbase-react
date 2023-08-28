@@ -1,3 +1,8 @@
+**Refer FireBase Docs For Linking the firebase with React.**
+By using my web api keys that I have provided may lead you to error .Because Thats my private API key(from FireBase).
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +73,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+**Disclaimer**
+A React and Firebase todo app that allows users to create, edit, and delete todo items. Todo items are stored in a Firebase Realtime Database, so they are always up-to-date for all users.
+
+
+=>By using my web api keys that I have provided may lead you to error .Because Thats my private API key(from FireBase).
